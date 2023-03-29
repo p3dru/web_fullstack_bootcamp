@@ -1,3 +1,7 @@
+.footer-link, .btn{
+    color: #11999E;
+}
+
 .round-img{
     border-radius: 100%;
 }
@@ -36,15 +40,21 @@ body{
 }
 
 h1{
-    margin: 30px;
+    margin: 50px;
     font-family: 'Great Vibes', cursive;
-    font-size: 50px;
+    font-size: 5rem;
+    color:  #66BFBF;
+    line-height: 1;
 }
 
 h2{
+    font-weight: normal;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }

@@ -1,9 +1,19 @@
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
 .footer-link, .btn{
     color: #11999E;
 }
 
 .round-img{
     border-radius: 100%;
+    width: 10%;
+    float: left;
+    margin-right: 30px;
 }
 
 .bottom-cloud{
